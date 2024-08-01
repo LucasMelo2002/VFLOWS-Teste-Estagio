@@ -1,0 +1,42 @@
+body {
+    padding-top: 20px;
+}
+
+fieldset {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+legend {
+    font-weight: bold;
+}
+
+.form-row {
+    margin-bottom: 15px;
+}
+
+.btn-secondary {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+fieldset {
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+legend {
+    border-radius: 10px;
+    background-color: #17a2b8;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 1.25rem;
+    border: 1px solid #17a2b8;
+}
